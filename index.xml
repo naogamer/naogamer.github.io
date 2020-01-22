@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Não Gamer</title>
+    <link>https://natanfernandessantos.github.io/naogamer/</link>
+    <description>Recent content on Não Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://natanfernandessantos.github.io/naogamer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://natanfernandessantos.github.io/naogamer/manifesto/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/manifesto/</guid>
+      <description>O Mainfesto do Não Gamer -v 0.0.1 O texto que se segue é um documento colaborativo, que visa desenvolver uma ideia de grupos de jogadores e não jogadores de qualquer jogo que seja. Sua ideia é construir uma identidade e comunidades que sejam respeitosas e livres de ideais tóxicos. Para colaborar basta entrar em contato conosco.
+Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra práticas abusivas comuns na comunidade gamer.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://natanfernandessantos.github.io/naogamer/contato/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/contato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://natanfernandessantos.github.io/naogamer/equipe/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/equipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parceiros</title>
+      <link>https://natanfernandessantos.github.io/naogamer/parceiros/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/parceiros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>https://natanfernandessantos.github.io/naogamer/podcast/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/podcast/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Produções</title>
+      <link>https://natanfernandessantos.github.io/naogamer/producoes/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/producoes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://natanfernandessantos.github.io/naogamer/sobre/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/sobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOje</title>
+      <link>https://natanfernandessantos.github.io/naogamer/posts/teste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://natanfernandessantos.github.io/naogamer/posts/teste/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

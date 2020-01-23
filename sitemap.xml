@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://naogamer.com/contato/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://naogamer.com/equipe/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +39,10 @@
   
   <url>
     <loc>https://naogamer.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://naogamer.com/contato/</loc>
   </url>
   
   <url>

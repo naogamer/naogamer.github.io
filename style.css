@@ -191,3 +191,33 @@ p a, a:hover {
   background-color: #D9591E;
   border-color: #D9591E;
 }
+
+.input {
+  width: 100%;
+}
+
+textarea {
+  height: 150px;
+}
+
+.input-button {
+  margin-top: 20px;
+  float: right;
+  width: 150px;
+  height: 40px;
+  background-color: transparent;
+  color: var(--accent);
+  border-width: 2px;
+  border-color: var(--accent);
+  font-size: 1.0em;
+  border-radius: 0px;
+  font-family: var(--font-face);
+}
+
+.file-input {
+  height: 40px;
+  color: var(--accent);
+  font-size: 1.0em;
+  border-radius: 0px;
+  font-family: var(--font-face);
+}

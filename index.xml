@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Não Gamer</title>
-    <link>https://naogamer.github.io/</link>
+    <link>https://naogamer.com/</link>
     <description>Recent content on Não Gamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://naogamer.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naogamer.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://naogamer.github.io/manifesto/</link>
+      <link>https://naogamer.com/manifesto/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/manifesto/</guid>
+      <guid>https://naogamer.com/manifesto/</guid>
       <description>O Mainfesto do Não Gamer -v 0.0.1 O texto que se segue é um documento colaborativo, que visa desenvolver uma ideia de grupos de jogadores e não jogadores de qualquer jogo que seja. Sua ideia é construir uma identidade e comunidades que sejam respeitosas e livres de ideais tóxicos. Para colaborar basta entrar em contato conosco.
 Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra práticas abusivas comuns na comunidade gamer.</description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://naogamer.github.io/contato/</link>
+      <link>https://naogamer.com/contato/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/contato/</guid>
+      <guid>https://naogamer.com/contato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contato</title>
-      <link>https://naogamer.github.io/equipe/</link>
+      <link>https://naogamer.com/equipe/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/equipe/</guid>
+      <guid>https://naogamer.com/equipe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parceiros</title>
-      <link>https://naogamer.github.io/parceiros/</link>
+      <link>https://naogamer.com/parceiros/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/parceiros/</guid>
+      <guid>https://naogamer.com/parceiros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcast</title>
-      <link>https://naogamer.github.io/podcast/</link>
+      <link>https://naogamer.com/podcast/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/podcast/</guid>
+      <guid>https://naogamer.com/podcast/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>Produções</title>
-      <link>https://naogamer.github.io/producoes/</link>
+      <link>https://naogamer.com/producoes/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/producoes/</guid>
+      <guid>https://naogamer.com/producoes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>https://naogamer.github.io/sobre/</link>
+      <link>https://naogamer.com/sobre/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/sobre/</guid>
+      <guid>https://naogamer.com/sobre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HOje</title>
-      <link>https://naogamer.github.io/posts/teste/</link>
+      <link>https://naogamer.com/posts/teste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://naogamer.github.io/posts/teste/</guid>
+      <guid>https://naogamer.com/posts/teste/</guid>
       <description></description>
     </item>
     

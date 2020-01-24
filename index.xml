@@ -12,22 +12,22 @@
     
     
     <item>
-      <title></title>
-      <link>https://naogamer.com/manifesto/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://naogamer.com/manifesto/</guid>
-      <description>O Mainfesto do Não Gamer -v 0.0.1 O texto que se segue é um documento colaborativo, que visa desenvolver uma ideia de grupos de jogadores e não jogadores de qualquer jogo que seja. Sua ideia é construir uma identidade e comunidades que sejam respeitosas e livres de ideais tóxicos. Para colaborar basta entrar em contato conosco.
-Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra práticas abusivas comuns na comunidade gamer.</description>
-    </item>
-    
-    <item>
       <title>Contato</title>
       <link>https://naogamer.com/equipe/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://naogamer.com/equipe/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>O Mainfesto do _Não Gamer_  -v 0.0.1</title>
+      <link>https://naogamer.com/manifesto/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/manifesto/</guid>
+      <description>O texto que se segue é um documento colaborativo, que visa desenvolver uma ideia de grupos de jogadores e não jogadores de qualquer jogo que seja. Sua ideia é construir uma identidade e comunidades que sejam respeitosas e livres de ideais tóxicos. Para colaborar basta entrar em contato conosco.
+Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra práticas abusivas comuns na comunidade gamer. Desde a ampla negação da existência de discussões políticas dentro de jogos a preconceitos e destratos o objetivo é que se forme a figura de um jogador inclusiva.</description>
     </item>
     
     <item>
@@ -40,15 +40,6 @@ Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra
     </item>
     
     <item>
-      <title>Podcast</title>
-      <link>https://naogamer.com/podcast/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://naogamer.com/podcast/</guid>
-      <description> </description>
-    </item>
-    
-    <item>
       <title>Produções</title>
       <link>https://naogamer.com/producoes/</link>
       <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
@@ -58,21 +49,14 @@ Motivação A ideia do Não Gamer foi elaborada a partir da resistẽncia contra
     </item>
     
     <item>
-      <title>Sobre</title>
-      <link>https://naogamer.com/sobre/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://naogamer.com/sobre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Contato</title>
       <link>https://naogamer.com/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://naogamer.com/contato/</guid>
-      <description>Nome
+      <description>Mande seu e-mail para: contatonaogamer@gmail.com
+Ou utilize o formulário abaixo.
+Nome
 E-mail
 Mensagem
 
@@ -87,6 +71,16 @@ Enviar
       
       <guid>https://naogamer.com/posts/teste/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://naogamer.com/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/sobre/</guid>
+      <description>O que é no Não Gamer? Não gamer é um site sobre cultura pop e periféricos com foco em jogos, que busca trazer um conteúdo que não se pauta em ideais consumistas ou excludentes. Buscamos trazer conteúdo em linguagem simples e acessível, com um certo tom provocador contra o senso comum e ideias popularizdas quando estes não estão de acordo com a realidade.
+Não evitamos tocar em temas que possam ser complicados em momentos oportunos, tratando sempre de forma ponderada.</description>
     </item>
     
   </channel>

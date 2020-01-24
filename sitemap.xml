@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://naogamer.com/manifesto/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://naogamer.com/equipe/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
@@ -18,22 +13,17 @@
   </url>
   
   <url>
+    <loc>https://naogamer.com/manifesto/</loc>
+    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://naogamer.com/parceiros/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://naogamer.com/podcast/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://naogamer.com/producoes/</loc>
-    <lastmod>2020-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://naogamer.com/sobre/</loc>
     <lastmod>2020-01-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -51,6 +41,10 @@
   
   <url>
     <loc>https://naogamer.com/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://naogamer.com/sobre/</loc>
   </url>
   
   <url>

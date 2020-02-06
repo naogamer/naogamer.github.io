@@ -6,10 +6,21 @@
     <description>Recent content in desenvolvimento on Não Gamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://naogamer.com/tags/desenvolvimento/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Configurando o computador Como criar jogos de um jeito fácil [1]</title>
+      <link>https://naogamer.com/posts/criar-jogos-facilmente-1/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/criar-jogos-facilmente-1/</guid>
+      <description>Esse post é parte de uma série onde serão ensinadas bases da criação de jogos, não iremos a um nível muito profundo, pois para isso há cursos muito bem fundamentados para isso. Esta série é apenas uma introdução.
+  Esta não é a primeira postagem, para ver a lista clique aqui.
+ Por mais que este seja um tutorial para desenvolvimento ele é voltado para iniciantes, portanto evitaremos utilizar terminais e recursos de linha de comando.</description>
+    </item>
     
     <item>
       <title>Como criar jogos de um jeito fácil [0]</title>

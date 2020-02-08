@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ferramentas on Não Gamer</title>
+    <link>https://naogamer.com/tags/ferramentas/</link>
+    <description>Recent content in ferramentas on Não Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naogamer.com/tags/ferramentas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como testar seu Joystick</title>
+      <link>https://naogamer.com/posts/como-testar-meu-controle/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/como-testar-meu-controle/</guid>
+      <description>Você sai de um dia longo de estudo ou trabalho, está com o cansaso em seu máximo e só o que quer é sentar e jogar alguma coisa. Você liga o computador ou console, espera o carregamento e quando vai navegando pelo menu nota que alguns botões não funcionam. Você desconecta e reconecta, troca as pilhas e até o jogo, mas nada muda.
+Esse foi meu cenário frustrante de sexta-feira a noite.</description>
+    </item>
+    
+  </channel>
+</rss>

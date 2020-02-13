@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Não Gamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://naogamer.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GTA e Minecraft são iguais.</title>
+      <link>https://naogamer.com/posts/minecraft-gta/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/minecraft-gta/</guid>
+      <description>Muitas vezes nos passa desapercebido coisas em comum entre jogos por terem gráficos e propostas diferentes. Isso pode ser letal para um desenvolvedor que acaba se cegando para novas possibilidades e pontos muito interessantes de se explorar e aproveitar. Para o jogador comum fica como curiosidade e eu defendo: A mesma coisa que faz GTA divertido faz Minecraft ser divertido.
+Isso não se aplica apenas a esses dois jogos, mas também a Scribblenauts, Terraria, Mario Maker e Legend of Zelda Breath of The Wild entre uma grande coleção de sucessos.</description>
+    </item>
     
     <item>
       <title>Jogos são um emprego?</title>
@@ -38,7 +48,7 @@ Esse foi meu cenário frustrante de sexta-feira a noite.</description>
       
       <guid>https://naogamer.com/posts/criar-jogos-facilmente-1/</guid>
       <description>Esse post é parte de uma série onde serão ensinadas bases da criação de jogos, não iremos a um nível muito profundo, pois para isso há cursos muito bem fundamentados para isso. Esta série é apenas uma introdução.
-  Esta não é a primeira postagem, para ver a lista clique aqui.
+  Esta não é a primeira postagem, para ver a lista clique AQUI
  Por mais que este seja um tutorial para desenvolvimento ele é voltado para iniciantes, portanto evitaremos utilizar terminais e recursos de linha de comando.</description>
     </item>
     

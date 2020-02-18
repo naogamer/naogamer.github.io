@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>produto on Não Gamer</title>
+    <link>https://naogamer.com/tags/produto/</link>
+    <description>Recent content in produto on Não Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naogamer.com/tags/produto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FATE Condensed! Mais um RPG que dá pra pegar de graça!</title>
+      <link>https://naogamer.com/posts/fate-condensado/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/fate-condensado/</guid>
+      <description>FATE RPG talvez não seja um jogo tão comum no cenário brasileiro de RPG, mas é definitivamente um jogo que vale a atenção. Com uma premissa simples de ser um jogo universal e fácil, sendo tanto poderoso quanto divertido. Nesse ponto da pra dizer que a Evil Hat Productions, LLC mandou muito bem, pois dá pra falar tudo do jogo deles, menos que é chato e complicado. Particularmente utilizo alguma versão dele quando quero jogar algum RPG em um cenário que não tenha uma adaptação ou que ela não seja tão boa.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Não Gamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://naogamer.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LibreSprite, o editor de pixel art grátis e robusto</title>
+      <link>https://naogamer.com/posts/libre-sprite/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/libre-sprite/</guid>
+      <description>Desde que comecei a fazer pixel art eu busquei continuamente algum editor bom e gratuíto, pois não tava afim de colocar dinheiro nisso sendo que eu queria apenas começar. Por mais que tenham me recomendado adaptações de todo tipo para o Photoshop e o Krita sempre me parecia usar um trator para arredar um sofá. Depois de muito tempo passando por cada bucha que não era exatamente ruim, mas tinham ferramentas bem limitadas encontrei o LibreSprite que solucionou praticamente todos os meus problemas.</description>
+    </item>
     
     <item>
       <title>FATE Condensed! Mais um RPG que dá pra pegar de graça!</title>

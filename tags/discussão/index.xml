@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discussão on Não Gamer</title>
+    <link>https://naogamer.com/tags/discuss%C3%A3o/</link>
+    <description>Recent content in discussão on Não Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naogamer.com/tags/discuss%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Porque tantos jogos de celular são ruins?</title>
+      <link>https://naogamer.com/posts/problemas-jogos-smartphone/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/problemas-jogos-smartphone/</guid>
+      <description>Neste artigo rola uma busca por olhar mais para o lado do jogador do que da produção. Embora não seja algo ignorável o que pesa mesmo no fim das contas é a experiência que nós vamos ter quando botar as mãos no celular.
+ Sendo usuário Android não é nem um pouco raro acabar baixando algum aplicativo de baixa qualidade ou que seja enfadonho de usar. O mesmo se aplica a jogos e não seria diferente devido a não haver uma curadoria ou coisa do tipo, o que não é uma exclusividade pois os mesmos problemas podem ser encontrados em outros marketplaces como a Steam.</description>
+    </item>
+    
+  </channel>
+</rss>

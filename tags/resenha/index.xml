@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resenha on Não Gamer</title>
+    <link>https://naogamer.com/tags/resenha/</link>
+    <description>Recent content in resenha on Não Gamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naogamer.com/tags/resenha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Binding of Isaac e o poder do Power-Up</title>
+      <link>https://naogamer.com/posts/isaac-power-up/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naogamer.com/posts/isaac-power-up/</guid>
+      <description>Finalizado em 2011 por Edmund McMillen e Florian Himsl e refeito em 2014 The Binding of Isaac está longe de ser um jogo desconhecido e que passou batido em sua época de maior destaque. Misturando conceitos de jogos de tiro, dungeon crawl e roguelike foi mais que merecido este jogo inicialmente simples surgido em uma game jam atingir a fama, as vendas e as expansões que conseguiu.
+Para os que ainda não estão inteirados por algum motivo vai uma breve explicação:</description>
+    </item>
+    
+  </channel>
+</rss>
